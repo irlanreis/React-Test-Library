@@ -1,8 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-
 import { pokemonType } from '../types';
-
 import './favorite-pokemon.css';
 import { Pokemon } from '../components';
 
