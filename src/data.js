@@ -29,7 +29,7 @@ const pokemonList = [
       value: '8.5',
       measurementUnit: 'kg',
     },
-    image: 'https://cdn2.bulbagarden.net/upload/0/0a/Spr_5b_004.png',
+    image: 'https://i.gifer.com/origin/c1/c188f43bb256061a4f624592528e09ea.gif',
     moreInfo: 'https://bulbapedia.bulbagarden.net/wiki/Charmander_(Pok%C3%A9mon)',
     foundAt: [
       {
